@@ -7,4 +7,4 @@ setTimeout(() =>{
 	console.log(a+b);
 }, 3000) //return the answer of a + b after 3 seconds
 
-console.log(__dirname); //tells you directry
+console.log(__dirname); //tells your directry
