@@ -29,7 +29,7 @@ node script.js
 
 To watch the changes on the files constantly, I installed nodemon.
 
-To know the details about nodemon, read here.
+For more details about nodemon, read here.
 
 https://github.com/remy/nodemon
 
