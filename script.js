@@ -1,4 +1,4 @@
-const script2 = require('./script2.js')
+const script2 = require('./script2.js') //path to the file. In this case, path to script2.js
 
 const a = script2.largeNumber;
 const b = 5;
