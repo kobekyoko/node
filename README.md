@@ -23,4 +23,6 @@ Go to git bash and type
 
 node script.js
 
+(works the same on Mac and Windows)
+
 
