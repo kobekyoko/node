@@ -1,15 +1,15 @@
 ## node
 How to import and export files on Node.js
 
-## How it is different to import and export files on Node.js
+## How to import and export files on Node.js
 
-Script.js
+★Script.js
 
 const script2 = require('./script2.js')
 
 const a = script2.largeNumber
 
-Script2.js
+★Script2.js
 
 const largeNumer = xxx;
 
